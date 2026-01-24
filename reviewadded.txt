@@ -1,0 +1,14 @@
+{
+   "data" : {
+      "bookIsbn" : "978-0-452-28423-4",
+      "comment" : "Excellent dystopian novel! Orwell was a visionary.",
+      "createdAt" : "2026-01-24T18:37:11.377Z",
+      "rating" : 5,
+      "reviewId" : "c1989a5c-3d8c-493a-b2ed-bb89a525451a",
+      "updatedAt" : "2026-01-24T18:37:11.377Z",
+      "userId" : "269bc5c5-0a4c-4f14-bdc7-f326ea0e736e",
+      "username" : "assignmentuser"
+   },
+   "message" : "Review added/updated successfully",
+   "success" : true
+}

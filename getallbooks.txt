@@ -1,0 +1,86 @@
+{
+   "count" : 10,
+   "data" : [
+      {
+         "author" : "F. Scott Fitzgerald",
+         "description" : "A classic American novel set in the Jazz Age on Long Island, near New York City. The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion for the beautiful Daisy Buchanan.",
+         "isbn" : "978-0-7432-7356-5",
+         "price" : 12.99,
+         "publication_year" : 1925,
+         "title" : "The Great Gatsby"
+      },
+      {
+         "author" : "Harper Lee",
+         "description" : "A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice. It views a world of great beauty and savage inequities through the eyes of a young girl.",
+         "isbn" : "978-0-06-112008-4",
+         "price" : 14.99,
+         "publication_year" : 1960,
+         "title" : "To Kill a Mockingbird"
+      },
+      {
+         "author" : "George Orwell",
+         "description" : "A dystopian social science fiction novel that follows the life of Winston Smith, a low-ranking member of 'the Party', who is frustrated by the omnipresent eyes of the party.",
+         "isbn" : "978-0-452-28423-4",
+         "price" : 13.99,
+         "publication_year" : 1949,
+         "title" : "1984"
+      },
+      {
+         "author" : "Jane Austen",
+         "description" : "A romantic novel of manners following the character development of Elizabeth Bennet, the protagonist of the book, who learns about the repercussions of hasty judgments.",
+         "isbn" : "978-0-14-017739-8",
+         "price" : 11.99,
+         "publication_year" : 1813,
+         "title" : "Pride and Prejudice"
+      },
+      {
+         "author" : "J.D. Salinger",
+         "description" : "A story about a few days in the life of a troubled teenager named Holden Caulfield. The novel details his experiences in New York City after being expelled from prep school.",
+         "isbn" : "978-0-7432-4722-1",
+         "price" : 10.99,
+         "publication_year" : 1951,
+         "title" : "The Catcher in the Rye"
+      },
+      {
+         "author" : "J.R.R. Tolkien",
+         "description" : "An epic high-fantasy novel following the quest to destroy the One Ring. The story began as a sequel to Tolkien's earlier work, The Hobbit, but eventually developed into a much larger work.",
+         "isbn" : "978-0-618-26030-1",
+         "price" : 25.99,
+         "publication_year" : 1954,
+         "title" : "The Lord of the Rings"
+      },
+      {
+         "author" : "J.D. Salinger",
+         "description" : "A controversial novel originally published for adults, it has since become popular with adolescent readers for its themes of teenage angst and alienation.",
+         "isbn" : "978-0-316-76948-0",
+         "price" : 15.99,
+         "publication_year" : 1951,
+         "title" : "The Catcher in the Rye"
+      },
+      {
+         "author" : "George Orwell",
+         "description" : "A beast fable, in the form of satirical allegorical novella, which tells the story of a group of farm animals who rebel against their human farmer.",
+         "isbn" : "978-0-7432-7357-2",
+         "price" : 9.99,
+         "publication_year" : 1945,
+         "title" : "Animal Farm"
+      },
+      {
+         "author" : "Aldous Huxley",
+         "description" : "A dystopian novel set in a futuristic World State, whose citizens are environmentally engineered into an intelligence-based social hierarchy.",
+         "isbn" : "978-0-14-143951-8",
+         "price" : 13.49,
+         "publication_year" : 1932,
+         "title" : "Brave New World"
+      },
+      {
+         "author" : "Gabriel García Márquez",
+         "description" : "A landmark 1967 novel by Colombian author, which tells the multi-generational story of the Buendía family, whose patriarch founded the town of Macondo.",
+         "isbn" : "978-0-06-093546-7",
+         "price" : 16.99,
+         "publication_year" : 1967,
+         "title" : "One Hundred Years of Solitude"
+      }
+   ],
+   "success" : true
+}

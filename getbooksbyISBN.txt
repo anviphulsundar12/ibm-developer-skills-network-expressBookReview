@@ -1,0 +1,11 @@
+{
+   "data" : {
+      "author" : "F. Scott Fitzgerald",
+      "description" : "A classic American novel set in the Jazz Age on Long Island, near New York City. The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion for the beautiful Daisy Buchanan.",
+      "isbn" : "978-0-7432-7356-5",
+      "price" : 12.99,
+      "publication_year" : 1925,
+      "title" : "The Great Gatsby"
+   },
+   "success" : true
+}

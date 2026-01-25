@@ -1,10 +1,10 @@
 {
    "data" : {
-      "sessionId" : "L9La26N6dMZk9lnVIjxEanvdCies1H_w",
-      "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIyNjliYzVjNS0wYTRjLTRmMTQtYmRjNy1mMzI2ZWEwZTczNmUiLCJ1c2VybmFtZSI6ImFzc2lnbm1lbnR1c2VyIiwiaWF0IjoxNzY5Mjc5ODE3LCJleHAiOjE3NjkyODM0MTd9.VgEEIp5CLEXxuKem13B-l953Bls7LolXUZP4MTk26kI",
-      "userId" : "269bc5c5-0a4c-4f14-bdc7-f326ea0e736e",
-      "username" : "assignmentuser"
+      "sessionId" : "LmEgJVIyl8hLm53eAOcf7JAqKjh5HmP4",
+      "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJmMDAyZjdkMy1lN2M2LTQ3MzMtYjU5ZS05ODE2Nzk1ZGZmYzUiLCJ1c2VybmFtZSI6Im5ld3VzZXIxMjMiLCJpYXQiOjE3NjkzMTY5MTQsImV4cCI6MTc2OTMyMDUxNH0.eENov0lMg-jgiPLi1_8e2I3SwhpYeK8WlhLZxn9u3SY",
+      "userId" : "f002f7d3-e7c6-4733-b59e-9816795dffc5",
+      "username" : "newuser123"
    },
-   "message" : "Login successful",
+   "message" : "Login successful!",
    "success" : true
 }

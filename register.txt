@@ -1,7 +1,7 @@
 {
    "data" : {
-      "userId" : "269bc5c5-0a4c-4f14-bdc7-f326ea0e736e",
-      "username" : "assignmentuser"
+      "userId" : "f002f7d3-e7c6-4733-b59e-9816795dffc5",
+      "username" : "newuser123"
    },
    "message" : "User registered successfully",
    "success" : true

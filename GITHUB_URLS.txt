@@ -1,0 +1,48 @@
+# GitHub Repository Information
+
+## Repository URL
+https://github.com/thatavarthisravya/library
+
+## Assignment Submission - Question 11 URL
+
+For Question 11, submit this URL for the general.js file:
+
+```
+https://github.com/thatavarthisravya/library/blob/main/routes/general.js
+```
+
+## Other Important Files on GitHub
+
+- **All Books Route**: https://github.com/thatavarthisravya/library/blob/main/routes/books.js
+- **Auth Routes**: https://github.com/thatavarthisravya/library/blob/main/routes/auth.js
+- **Review Routes**: https://github.com/thatavarthisravya/library/blob/main/routes/reviews.js
+- **Main Server**: https://github.com/thatavarthisravya/library/blob/main/server.js
+- **README**: https://github.com/thatavarthisravya/library/blob/main/README.md
+
+## Project Structure on GitHub
+
+Your repository now contains:
+- ✅ All source code
+- ✅ Routes with async/await implementations
+- ✅ Controllers with business logic
+- ✅ Models for data management
+- ✅ Middleware for authentication
+- ✅ Web interface (public/index.html)
+- ✅ Assignment output files (.txt files)
+- ✅ Documentation (README.md)
+
+## Quick Check
+
+Visit your repository to verify everything is there:
+https://github.com/thatavarthisravya/library
+
+## For Question 1 (GitHub Fork)
+
+If you need to show this is forked from IBM's repository, you'll need to:
+1. Fork the original: https://github.com/ibm-developer-skills-network/expressBookReview
+2. Copy your code to that forked repository
+
+Alternatively, if this repository is acceptable, you can generate the githubrepo file with:
+```bash
+curl -s https://api.github.com/repos/thatavarthisravya/library > githubrepo
+```

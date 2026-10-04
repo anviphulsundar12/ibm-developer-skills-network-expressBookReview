@@ -11,6 +11,7 @@ const errorHandler = require('./middleware/errorHandler');
 const booksRoutes = require('./routes/books');
 const authRoutes = require('./routes/auth');
 const reviewsRoutes = require('./routes/reviews');
+const generalRoutes = require('./routes/general');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -57,7 +58,10 @@ app.use('/books', booksRoutes);
 app.use('/auth', authRoutes);
 app.use('/books', reviewsRoutes);
 
-// Error handler (must be last)
+// General routes
+app.use('/books', generalRoutes);
+
+// Error handler (must be last
 app.use(errorHandler);
 
 // 404 handler
